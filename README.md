@@ -26,3 +26,4 @@ npm run dev
 ```
 
 ## Preview
+![Brainwave](https://github.com/zeienko-vitalii/brainwave/assets/31850531/9fd0ecb5-e0a5-46f9-9a56-db5f18b00ab2)
